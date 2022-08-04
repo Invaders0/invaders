@@ -27,13 +27,13 @@ h4,
 
 @media (max-width: 768px) {
     #particles-js {
-        height: 400px;
+        height: 90vh;
     }
 }
 
 @media (max-width: 668px) {
     #particles-js {
-        height: 500px;
+        height: 90vh;
     }
 }
 
