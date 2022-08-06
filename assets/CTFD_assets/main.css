@@ -20,7 +20,7 @@ h4,
 #particles-js {
     position: absolute;
     width: 100%;
-    height: 47vh;
+    height: 49vh;
     z-index: -1;
     background-color: #111;
 }
